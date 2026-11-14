@@ -13,7 +13,7 @@ class CustomTabBar extends StatelessWidget {
         // HomePage(),
         AnimePage(),
         NewsPage(),
-        Center(child: Text('Profile Content')),
+        Center(child: Text('')),
       ],
     );
   }
